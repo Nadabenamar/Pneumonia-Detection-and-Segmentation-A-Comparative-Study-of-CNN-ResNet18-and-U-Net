@@ -8,6 +8,6 @@ The project is organized as follows:
 To keep the repository lightweight, trained model weights (`.pth` files) are not included. 
 You can generate them by:
 1. Running the training scripts provided in `src/`.
-2. Or downloading our pre-trained weights from [Link to Google Drive/Dropbox/Kaggle].
+2. Or downloading our pre-trained weights from https://drive.google.com/file/d/1ZORIlI-Ze1byNV3DOpBNh2B3u7Dzb4PO/view?usp=drive_link .
 
 Place the downloaded `model.pth` in the `models/` directory before running inference.
