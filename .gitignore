@@ -1,0 +1,17 @@
+# Empêche l'upload du dossier de données (plusieurs Go)
+archive/
+segmentation/
+
+# Empêche l'upload du modèle entraîné (trop lourd pour GitHub)
+model.pth
+*.pth
+
+# Empêche l'upload de l'environnement virtuel
+.venv/
+venv/
+
+# Fichiers temporaires et système
+__pycache__/
+.vscode/
+desktop.ini
+.DS_Store
