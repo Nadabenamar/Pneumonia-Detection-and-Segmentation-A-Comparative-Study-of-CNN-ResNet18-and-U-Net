@@ -31,7 +31,7 @@ The project is divided into two distinct phases:
 ## 🔗 Data & Models Access
 Due to GitHub's storage limitations, the raw dataset and trained model weights (`.pth`) are hosted externally.
 
-> 📥 **[Download Dataset (archive/) & Pre-trained Models Here](//)**
+> 📥 **[Download Dataset (archive/) & Pre-trained Models Here](https://drive.google.com/drive/folders/1rFU6uYOfKRjVe5H03kdNxxeZCkw6Blzv?usp=drive_link)**
 
 ## 🚀 How to Run
 1. Clone the repository:
